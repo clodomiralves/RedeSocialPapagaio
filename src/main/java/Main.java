@@ -13,7 +13,7 @@ public class Main {
                     
                     Digite 6 para sair
                     """);
-
+// FSDGDFGHFGHFGJGHJKJIPUUIOJK
             switch (opcao) {
                 case "1":
                     String nome = JOptionPane.showInputDialog("Digite seu nome ");
